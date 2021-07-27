@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👨🏻‍💻 I'm currently working at LINE Corporation.
+- 🌎 I'm into Front-end Development, HTML-CSS-JS ftw!!
+- 🍕 I'm a huge fan of pizzas, they say "Trust the guy who likes pizzas" 😉
+- 🔗 Contact me at [LinkedIn](https://www.linkedin.com/in/khoango125/), [Email](mailto:ngohakhoa@gmail.com)
+
 <!--
 **themarcus125/themarcus125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
