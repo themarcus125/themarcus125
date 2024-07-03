@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨🏻‍💻 I'm currently working at LINE Corporation.
+👨🏻‍💻 I'm currently working remotely at Degas LTD.
 <br />
 🔭 I'm into Front-end Development, HTML-CSS-JS ftw!!
 <br />
