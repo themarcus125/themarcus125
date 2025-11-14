@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨🏻‍💻 I'm currently working remotely at Degas LTD.
+👨🏻‍💻 I'm currently working District 🇺🇸.
 <br />
 🔭 I'm into Front-end Development, HTML-CSS-JS ftw!!
 <br />
-🍕 I'm a huge fan of pizzas, they say "Trust the guy who likes pizzas" 😉
+🍕 I'm a huge fan of pizzas
 <br />
 🎶 I'm in love with Musicals and any Theater-related stuff
 <br />
